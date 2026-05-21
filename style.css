@@ -383,6 +383,10 @@ body.hovering .cursor-ring {
     justify-content: center;
     transition: background 0.3s;
 }
+.lnk{
+    text-decoration: none;
+    color: var(--paper);
+}
 
 .product-card:hover .product-overlay {
     background: rgba(15, 14, 12, 0.15);
